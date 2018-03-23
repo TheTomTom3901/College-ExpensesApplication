@@ -1,0 +1,65 @@
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Expenses\Expenses\Expenses\bin\Debug\Expenses.exe.config
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Expenses\Expenses\Expenses\bin\Debug\Expenses.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Expenses\Expenses\Expenses\bin\Debug\Expenses.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Expenses\Expenses\Expenses\bin\Debug\Expenses.xml
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Expenses\Expenses\Expenses\obj\Debug\Expenses.vbprojResolveAssemblyReference.cache
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Expenses\Expenses\Expenses\obj\Debug\Expenses.Form1.resources
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Expenses\Expenses\Expenses\obj\Debug\Expenses.Resources.resources
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Expenses\Expenses\Expenses\obj\Debug\Expenses.vbproj.GenerateResource.Cache
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Expenses\Expenses\Expenses\obj\Debug\Expenses.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Expenses\Expenses\Expenses\obj\Debug\Expenses.xml
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Expenses\Expenses\Expenses\obj\Debug\Expenses.pdb
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.exe.config
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.pdb
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.xml
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.vbprojResolveAssemblyReference.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.Form1.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.Resources.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.vbproj.GenerateResource.Cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.vbproj.CoreCompileInputs.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.xml
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.exe.config
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.xml
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.vbprojResolveAssemblyReference.cache
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.Form1.resources
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.Resources.resources
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.vbproj.GenerateResource.Cache
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.xml
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.pdb
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.exe.config
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.exe
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.pdb
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.xml
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.vbprojResolveAssemblyReference.cache
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.Form1.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.Resources.resources
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.vbproj.GenerateResource.Cache
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.exe
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.xml
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.pdb
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.exe.config
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.exe
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.xml
+D:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.pdb
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.exe.config
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.pdb
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.xml
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.vbprojResolveAssemblyReference.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.Form1.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.Resources.resources
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.vbproj.GenerateResource.Cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.vbproj.CoreCompileInputs.cache
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.exe
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.xml
+Z:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.pdb
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Complete\Upload\Programs\VisualBasic\Expenses\Expenses\bin\Debug\Expenses.exe.config
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Complete\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.exe
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Complete\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.xml
+E:\College Work\Term 2\Unit 14 - Event Driven Programming\Assignment 1 - Complete\Upload\Programs\VisualBasic\Expenses\Expenses\obj\Debug\Expenses.pdb
